@@ -8,6 +8,9 @@ importers:
 
   .:
     devDependencies:
+      '@extension-create/develop':
+        specifier: 1.8.0
+        version: 1.8.0(browserslist@4.23.3)(typescript@5.3.3)
       '@types/react':
         specifier: 18.3.3
         version: 18.3.3
