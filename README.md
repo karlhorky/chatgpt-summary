@@ -29,7 +29,7 @@ pnpm start
 ```
 // Builds the app for production.
 // Bundles your browser extension in production mode for the target browser.
-pnpm run build
+pnpm build
 ```
 
 ## Learn More
